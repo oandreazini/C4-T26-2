@@ -35,6 +35,13 @@ PUT       /api/asignadoa/{id}
 DELETE    /api/asignadoa/{id}
 ```
 
-#### 5. Screenshot imagen que indique cómo debe verse el proyecto.
-![image](https://user-images.githubusercontent.com/55554433/185450106-d68f33c9-20b0-48b1-82d2-ed47f16a88b1.png)
+#### 5. Screenshot imagen de los resultados.
+#### Cientificos
+![image](https://user-images.githubusercontent.com/55554433/185460125-927b5f14-63e2-48a6-99ea-37da295b7998.png)
+
+#### Proyectos
+![image](https://user-images.githubusercontent.com/55554433/185459953-3376e994-664f-473b-998c-15bba6279628.png)
+
+#### Asignadoa
+![image](https://user-images.githubusercontent.com/55554433/185459802-8ec9c946-4f30-4cb6-8890-bcd98d7d2a76.png)
 
