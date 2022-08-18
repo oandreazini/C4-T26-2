@@ -35,7 +35,7 @@ PUT       /api/asignadoa/{id}
 DELETE    /api/asignadoa/{id}
 ```
 
-#### 5. Screenshot imagen de los resultados.
+#### 5. Screenshot imagens, de las consultas con get "sin id".
 #### Cientificos
 ![image](https://user-images.githubusercontent.com/55554433/185460125-927b5f14-63e2-48a6-99ea-37da295b7998.png)
 
